@@ -3,15 +3,15 @@
 Fullstack open source student management system application made with MongoDB, Express, React & Nodejs (MERN) </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
+- [Configuration and Setup](#configuration-and-setup)
+- [Key Features](#key-features)
+- [Technologies used](#technologies-used)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Database](#database)
+- [📸 Screenshots](#screenshots)
+- [Author](#author)
+- [License](#license)
 
 ## Configuration and Setup
 
@@ -40,6 +40,7 @@ In the second terminal
 PORT =8070
 MONGO_URL =
 ```
+
 ```
 # --- Terminal ---
 
@@ -47,7 +48,7 @@ $ npm install (to install backend-side dependencies)
 $ npm start (to start the backend)
 ```
 
-##  Key Features
+## Key Features
 
 - Add Student
 - Edit Student
@@ -58,21 +59,21 @@ $ npm start (to start the backend)
 
 <br/>
 
-##  Technologies used
+## Technologies used
 
 This project was created using the following technologies.
 
-####  Frontend 
+#### Frontend
 
 - [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
-- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
+- [React Hooks ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
 - [Bootstrap](https://getbootstrap.com/) - For User Interface
-- [React icons](https://react-icons.github.io/react-icons/) - Small library that helps you add icons  to your react apps
+- [React icons](https://react-icons.github.io/react-icons/) - Small library that helps you add icons to your react apps
 - [SweetAlert2](https://sweetalert2.github.io/) - PopUp
 
-####  Backend 
+#### Backend
 
 - [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
 - [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
@@ -80,28 +81,36 @@ This project was created using the following technologies.
 - [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
 - [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
 - [Nodemon](https://www.npmjs.com/package/nodemon) - To monitor changes to the program code that is being developed
-####  Database 
 
- - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
- 
+#### Database
+
+- [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+
  <!-- ##  Screenshots  -->
- 
-![img-1](https://github.com/berthutapea/mern-student-management-system/assets/111676859/98de6bd3-cb9a-4a43-838a-67af9841a138)
----- -
-![img-2](https://github.com/berthutapea/mern-student-management-system/assets/111676859/95960cde-a7d5-4617-903f-2fff0e2942e1)
---- - 
-![img-3](https://github.com/berthutapea/mern-student-management-system/assets/111676859/76436990-a8d1-400a-9376-78ce02f2d247)
---- - 
-![img-4](https://github.com/berthutapea/mern-student-management-system/assets/111676859/6cd0f24b-a516-454c-b975-87dc572dcbd9)
---- - 
-![img-5](https://github.com/berthutapea/mern-student-management-system/assets/111676859/b746eba1-4ab1-4e50-a425-4ce5582f3cea)
+
+![img-1](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-1_yhedpu.png)
+
+---
+
+![img-2](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-2_uktrxk.png)
+
+---
+
+![img-3](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-3_s1js9i.png)
+
+---
+
+![img-4](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-4_sb9ga6.png)
+
+---
+
+![img-5](https://res.cloudinary.com/du541igfh/image/upload/v1683869748/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-5_wrxlr7.png)
 
 ## Author
-- Portfolio: [berthutapea](https://berthutapea.vercel.app/)
-- Github: [berthutapea](https://github.com/berthutapea)
-- Sponsor: [berthutapea](https://saweria.co/berthutapea)
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
-- Email: [berthutapea@gmail.com](mailto:berthutapea@gmail.com)
+
+- Portfolio: [daniel]()
+- Github: [masterdev0218](https://github.com/berthutapea)
+- Email: [daniel.lee0218929@gmail.com](mailto:daniel.lee0218929@gmail.com)
 
 ## License
 
