@@ -108,7 +108,7 @@ This project was created using the following technologies.
 
 ## Author
 
-- Portfolio: [daniel](http://masterdev0218.portfolio.app)
+- Portfolio: [daniel.lee0218](http://masterdev0218.portfolio.app)
 - Github: [masterdev0218](https://github.com/masterdev0218)
 - Email: [daniel.lee0218929@gmail.com](mailto:daniel.lee0218929@gmail.com)
 
