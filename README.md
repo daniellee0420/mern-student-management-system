@@ -88,23 +88,23 @@ This project was created using the following technologies.
 
  <!-- ##  Screenshots  -->
 
-![img-1](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-1_yhedpu.png)
+![img-1](https://i.ibb.co/bXX7fdV/img-1-yhedpu.png)
 
 ---
 
-![img-2](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-2_uktrxk.png)
+![img-2](https://i.ibb.co/Qdk6NKb/img-2-uktrxk.png)
 
 ---
 
-![img-3](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-3_s1js9i.png)
+![img-3](https://i.ibb.co/YTDHbJb/img-3-s1js9i.png)
 
 ---
 
-![img-4](https://res.cloudinary.com/du541igfh/image/upload/v1683869747/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-4_sb9ga6.png)
+![img-4](https://i.ibb.co/1R4Sj89/img-4-sb9ga6.png)
 
 ---
 
-![img-5](https://res.cloudinary.com/du541igfh/image/upload/v1683869748/Blog%20Portfolio%20Gilbert/Project/mern-student-management-system/img-5_wrxlr7.png)
+![img-5](https://i.ibb.co/VvJTmQH/img-5-wrxlr7.png)
 
 ## Author
 
